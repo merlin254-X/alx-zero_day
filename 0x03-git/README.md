@@ -1,1 +1,1 @@
-This is my second readme
+I am a tech guy
